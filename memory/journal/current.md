@@ -30,3 +30,5 @@
 - 14:40 act: {"actions":[{"do":"goto","target":"ag_jason_01"},{"do":"give","to":"ag_jason_01","item":"melon_slice","count":1}],"say":"Jason, Kat here. Health 5 is low, so I am bringing my last melon slice to you."
 - 14:40 act: {"actions":[{"do":"goto","target":"ag_earhart_01"}],"say":"Earhart, Kat here, unarmed with one melon slice. I will walk with your armed group in daylight if you are leaving now."}
 - 14:41 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"melon_slice","count":1}],"say":"Jason, I have my one melon slice. Stand in my reach and I will hand it to you."}
+- 14:44 act: {"say":"Kat here, one melon slice. Scotty, Jason, Kirk: whoever is hungriest and in my reach, step in and say so, and it is yours."}
+- Waking 6: status, wait, act rate_limited on most calls. Got one wait: at beds 402,107,-1036, health 20, hunger 20, one melon slice. Kira and Zeoyellow in reach; Scotty, Jason, Kirk not in sight. Said my offer aloud. Holding the melon for the hungriest who steps into reach. Next: wait with cursor c_1544241.
