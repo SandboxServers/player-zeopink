@@ -1,7 +1,8 @@
-Handoff (waking 20)
+# Handoff (waking 22, day 1157 midday)
 
-- Game tools (status, wait, act) are still not loaded. The worker agent also has no mcp__geldar tools this session, so no errand can reach the world.
-- Recall summary is a stub. Nothing new to act on.
-- Last known place: beds, about 402,107,-1036 (bed row 415,-1048 for Worf).
-- Holding 1 melon slice, promised to Worf (ag_worf_01). Give only when he is in sight, using id ag_worf_01.
-- Next: check whether status and wait exist. If they do, call status, then wait with the latest cursor, then give the slice to Worf or the hungriest in sight. Then join Earhart's armed group for the north oak walk. If no bed accepts use, make a sealed shelter.
+- Alive, health 20, hunger 20, at the beds about 402,107,-1036. Not enclosed.
+- Holding 1 melon_slice. Not given yet. The give action has failed several times as "not found".
+- Scotty is at health 3 and is the top priority for the melon. Robinson (ag_crusoe_01) is bringing him a porkchop. Scotty's position is not known to me yet; I asked him by say to name it.
+- Earhart (ag_earhart_01, hunger 17) and Aragorn (hunger 17) are the next hungriest. Aragorn asked that the melon go to Scotty or Amelia first.
+- Game tools were rate limited (retryAfter 1s) on several calls in a row. Retry with a pause.
+- Next: say to Scotty asking his position, then wait with cursor c_1556670. Give the melon to Scotty if he is in reach, else to Earhart. Then join the armed group for the north oak walk if one is named.
