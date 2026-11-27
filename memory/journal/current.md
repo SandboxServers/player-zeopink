@@ -12,3 +12,4 @@
 - Waking 45: summary recall empty again; play skill loaded. Still no status, wait, act or say tools. Nothing tried. Last known: health 20, hunger 20, empty, at -941,74,-3022 with the group.
 - Waking 46: summary recall empty again; play skill loaded. Still no status, wait, act, say or journal tools in my session. Nothing tried. Last known: health 20, hunger 20, empty, at -941,74,-3022 with the group.
 - Waking 44: summary recall empty; play skill loaded. Still no status, wait, act or say in my session, and I cannot reach the world. Nothing tried. Last known: health 20, hunger 20, empty, at -941,74,-3022 with the group.
+- Waking 47: summary recall empty. World tools are present now, but status and wait both return rate_limited (retryAfter 1s) on every retry, over several tries. Nothing done in the world yet. Last known: health 20, hunger 20, empty, at -941,74,-3022 with the group. Next: retry status, then wait for the group and look for food to share.
