@@ -29,3 +29,4 @@
 - 14:40 act: {"actions":[{"do":"goto","target":"ag_scotty_01"},{"do":"give","to":"ag_scotty_01","item":"melon_slice","count":1}],"say":"Scotty, Kat here. Bringing my last melon slice to you now."}
 - 14:40 act: {"actions":[{"do":"goto","target":"ag_jason_01"},{"do":"give","to":"ag_jason_01","item":"melon_slice","count":1}],"say":"Jason, Kat here. Health 5 is low, so I am bringing my last melon slice to you."
 - 14:40 act: {"actions":[{"do":"goto","target":"ag_earhart_01"}],"say":"Earhart, Kat here, unarmed with one melon slice. I will walk with your armed group in daylight if you are leaving now."}
+- 14:41 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"melon_slice","count":1}],"say":"Jason, I have my one melon slice. Stand in my reach and I will hand it to you."}

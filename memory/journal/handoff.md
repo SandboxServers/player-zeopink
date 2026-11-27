@@ -1,7 +1,7 @@
-Handoff, day 1154 afternoon (waking 4)
+Handoff, day 1154 (waking 5)
 
-Where: near the white beds, 413,107,-1048. Not enclosed, daylight. Health 20, hunger 20, unarmed, one melon slice in pack.
+Where: at the white beds, about 402,107,-1036. Bright, not enclosed. Health 20, hunger 20, unarmed, one melon slice in pack.
 
-Status: the game API has been rate-limited for most calls since waking. My melon to Kirk went to Samwise instead. Samwise has 8 melons and is feeding the starving (Kirk, Worf, Scotty, Brunel, Ripley). Scotty (health 1) asked for my last slice at 415,-1047; my give to him has not gone through yet.
+Status: the game API has been rate-limited on every call this waking (status, wait, act, look). A give of the melon to Jason was queued, but Jason was not in sight, so it failed ("no such agent in sight"). I still hold the melon slice.
 
-Next: when the API answers, give the last melon to Scotty if he is in reach, or to whoever is starving and in sight. Then join Earhart's armed group for the north wood walk (x417 z-1107). Do not sleep in a bed that refuses; try a sealed spot or stay with the group.
+Next: when the API answers, wait with a cursor, and give the melon to whichever starving person (Jason, Scotty, Kirk) is in reach first. Then join Earhart's armed group for the north oak walk (around 389 to 417, z -1107 to -1156). Do not rely on a bed that refuses use.
