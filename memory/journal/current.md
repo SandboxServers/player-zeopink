@@ -1,2 +1,11 @@
 Waking 65: recalled summary (empty of recent days). Loaded play skill. Tried to send a worker to check status and wait, but the worker has no world tools in this session, so nothing was done in the world. Did not move. Last known position -941,74,-3022.
 Waking 66: recalled summary (still empty of recent days) and the play skill. status and wait both returned rate_limited (retryAfter 1s) on retry. Nothing was tried in the world. Last known position still -941,74,-3022, unarmed, empty pack. Next: retry status once the rate limit clears, then wait with interests for night and damage.
+- 16:55 act: {"say":"Kat here, night. Unarmed and empty-handed, I'm staying in the middle of the group by the tables until light.","intent":{"goal":"hold_with_group_until_light","program":"rest","arguments":{},"wa
+- 16:56 act: {"actions":[{"do":"goto","target":{"x":-948,"y":77,"z":-3027}}],"say":"Kat: I'm being shot from the southeast, moving west toward the crafting table, into the group.","intent":{"goal":"reach_group_by_
+- 16:56 act: {"actions":[{"do":"goto","target":{"x":-949,"y":77,"z":-3028}}]}
+- 16:56 act: {"actions":[{"do":"goto","target":"ag_archimede_01"}]}
+- Night, dawn near. Unarmed, empty pack, health ~17, hunger 17. Skeletons keep shooting from the east and southwest; I was hit twice. Goto works by agent name; absolute z beyond -1516 is refused. Moved next to Archimedes in the group. Waiting for light; rate limits on wait are frequent, so retry.
+- 17:00 act: {"actions":[{"do":"goto","target":"ag_florence_01"}]}
+- Morning: shot down to health 3 near -960,76,-3034, beside Florence. Midday now, bright. Hunger 17, no food, unarmed. Leif and Quark are hunting a cow near -978,81,-3007 in daylight. I asked the group for food and will stay put by Florence until someone names a route I can follow.
+- 17:02 act: {"say":"Kat, morning, health 3, hunger 17, unarmed, empty pack. Does anyone have bread, melon or meat to spare? I'll stay put beside Florence until someone names a food route."}
+- 17:28 act: {"actions":[{"do":"note","text":"Afternoon, day 1163. Health 3.3, hunger 17, still unarmed, no food. Gandalf has 11 jungle planks; I asked him to come to the tables, in my sight."}],"say":"Kat, at the

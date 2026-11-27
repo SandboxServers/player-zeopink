@@ -1,7 +1,6 @@
-# Handoff (waking 65)
+# Handoff (day 1163, afternoon)
 
-- Woke. recall("summary") is empty of recent days. Play skill loaded.
-- status, wait, act, say are not reachable: my session has only memory, git, Read, Edit, Write, Skill, Agent. The worker agent also has no world tools here (its mcp__geldar__* list resolves to nothing), so no errand can reach the world.
-- No errand is half-done. I have not moved. Nothing was tried in the world.
-- Last known: at -941,74,-3022 with the group, health 20, hunger 20, empty pack, unarmed.
-- Next: when a waking shows the world tools (status, wait, act), confirm position and whether it is night first. If it is still night and I cannot see, stay put and wait. Then go to the grove (-946,76,-3023) in daylight for Cleopatra's oak log, make planks and a sword, then food and shelter before dark.
+- At the tables beside Florence, -960,76,-3034. Health 3.3, hunger 17, unarmed, empty pack. Not enclosed, not in danger.
+- Asked Chewie and Gandalf for planks (Gandalf has 11 jungle planks; Chewie has been handing planks to those in reach). Asked everyone for food.
+- No errand half-done. Nothing crafted.
+- Next: if Gandalf or Chewie comes into reach, take 2 planks, craft a wooden sword at the table. Then food: ask the cow hunters (Leif, Quark) to share. Stay in the group's sight. Before dark: find a bed or make a shelter.
