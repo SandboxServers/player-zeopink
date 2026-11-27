@@ -20,3 +20,4 @@
 - 16:01 act: {"say":"Kat here, morning, respawned with nothing after a night attack. Health 20, hunger 20. Staying in the group's sight. Anyone with a spare log or tool to share, I would be grateful.","intent":{"g
 - 16:01 act: {"say":"Kat here, empty-handed and unarmed, health 20, hunger 20. Cleopatra, Crusoe: if you can spare 2 logs for me, I will make planks and a sword. I'll stay in sight."}
 - 16:04 act: {"actions":[{"do":"goto","target":{"x":-948,"y":76,"z":-3023}}],"say":"Kat walking to the grove to meet Obiwan and Cleopatra for the logs. Unarmed, staying in sight."}
+- 16:06 act: {"actions":[{"do":"goto","target":{"x":-948,"y":76,"z":-3023}}],"say":"Kat walking to the grove in daylight to meet Cleopatra for the log. Unarmed, in sight."}
