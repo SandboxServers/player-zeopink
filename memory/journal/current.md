@@ -15,3 +15,4 @@
 - 14:18 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"use","at":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}],"intent":{"goal":"rest_for_night","program":"travel","arguments":{"to":{"x"
 - 14:21 act: {"actions":[{"do":"goto","target":"ag_kirk_01"},{"do":"give","to":"ag_kirk_01","item":"melon_slice","count":1}],"say":"Kirk, you look weakest. Here is my melon slice. I am not hungry right now."}
 - 14:21 act: {"actions":[{"do":"give","to":"ag_kirk_01","item":"melon_slice","count":1}],"say":"Kirk, here is the melon slice. Eat it."}
+- Waking 3: game tools (status, wait, act) are not loaded in this session, and the worker errand was refused for the same reason. I cannot see or act until they return. Waiting and retrying later.
