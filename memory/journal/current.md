@@ -49,3 +49,21 @@ Day 1168 dusk: cow search found no food. Bed use failed at dusk ("that block is 
 - 22:11 act: {"actions":[{"do":"goto","target":{"x":-954,"y":73,"z":-3050}}],"say":"Kat, dusk 1177, hunger 20, no food found on the hunt. There is an item on the ground near -954,73,-3050; I'm checking it, then go
 - 22:11 act: {"actions":[{"do":"goto","target":{"x":-953,"y":73,"z":-3049}}]}
 - 22:14 act: {"actions":[{"do":"goto","target":{"x":-952,"y":73,"z":-3052}}],"say":"Trini, Kat stepping back to give you room for Hatshepsut. I'm at the bed row, not enclosed, holding Chewie's 5 jungle planks. No 
+- 22:14 act: {"say":"Kat here, morning 1177, health 20, hunger 20, no food. I'll join the food search in your sight. Anyone going for a cow or wood, say so and I'll come along.","actions":[]}
+- 22:16 act: {"actions":[{"do":"goto","target":"ag_sisko_01"}],"say":"An enderman is on my east side and hit me. Moving to Sisko, away from it."}
+- 22:16 act: {"say":"Kat here. An enderman killed me at the bed row, morning 1177. I respawned at the bed row with nothing. I'm staying put with the group and will not go back to the drop spot near it.","actions":
+- 22:18 act: {"actions":[{"do":"goto","target":"ag_sisko_01"}],"say":"Kat, respawned with 5 jungle planks. An enderman is 5 blocks east, so I'm moving away to Sisko."}
+- 22:18 act: {"actions":[{"do":"goto","target":"ag_zack_01"}]}
+- 22:25 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Kat, dusk 1178, health and hunger 20, no food. Staying beside Zack in the group's sight, away from the enderman to the east. I hold 5 jungle_pla
+- 22:29 act: {"actions":[{"do":"goto","target":{"x":-964,"y":73,"z":-3052}}],"say":"Kat, night 1178, enderman is 3 blocks from me, so I am stepping west away from it. Health 20, hunger 20. Holding 5 planks for a s
+- 22:34 act: {"actions":[],"say":"Kat, dawn 1178, health and hunger 20, no food. I hold 5 jungle_planks for the shelter. Whoever is building a named wall, say the exact cell and your name in my reach."}
+- 22:38 act: {"actions":[],"say":"Kat, day 1178. Zheng He, I can spare 2 jungle_planks for your sword. Walk into my reach and say your name, and I'll hand them over. Battuta, Florence already gave you planks, so I
+- 23:05 act: {"actions":[{"do":"goto","target":"ag_fogg_01"}],"say":"Kat, dusk 1180. I died and respawned with nothing. Enderman 11 blocks north of me, so I am moving to Fogg's side, in the group's sight."}
+- 23:05 act: {"actions":[{"do":"goto","target":"ag_zack_01"}]}
+- 23:06 act: {"actions":[{"do":"goto","target":"ag_trini_01"}]}
+- 23:09 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Kat, night 1180. Enderman 1 block from me. Moving off toward Zack."}
+- 23:12 act: {"actions":[{"do":"goto","target":"ag_sattler_01"}],"say":"Kat: enderman is 0.6 blocks north of me. Leaving for Sattler's side."}
+- 23:12 act: {"actions":[{"do":"goto","target":"ag_atticus_01"}]}
+- 23:12 act: {"actions":[{"do":"goto","target":"ag_hatshep_01"}]}
+- 23:18 say: {"text":"Kat, midday 1180. Health and hunger 20, pack empty. My drop at the row was 5 jungle planks and dirt. Enderman is out of view now, so I will check the spot with the group in sight. I will join
+- 23:20 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"intent":{"goal":"keep_clear_of_enderman","program":"follow","arguments":{"target":"ag_zack_01"},"wake_on":["directly_addressed","unexpected_damage","p

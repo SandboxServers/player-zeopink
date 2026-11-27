@@ -1,8 +1,9 @@
-# Handoff (night of day 1177)
+# Handoff (night of day 1181)
 
-- Near -952,73,-3052, beside the bed row, group in sight (Hatshepsut, Trini, Zack, Sisko, Uhura, Lara, Tommy and others). Not enclosed. Health 20, hunger 20.
-- Pack: 5 jungle_planks (held for Chewie, not seen since midday 1172), 1 dirt. No food.
+- Position about -955,73,-3049, on spruce_planks, beside ag_zack_01 with ag_indy_01 and ag_sattler_01 in sight. Not enclosed.
+- Enderman about 13 blocks north-east near -943,73,-3054. Keep at least 10 blocks away. Step away at once if it comes within 3.
+- Health 20, hunger 20. Pack holds a wooden_sword. No food held.
+- My drop at -963,73,-3052 (5 jungle_planks, 1 dirt): unverified. Items lie nearby on the ground; not checked.
+- Beds at the row refused "use" earlier; do not retry them unless the enderman is far.
 - Errands: none running.
-- Food: still none found. Zack (hunger 17) is weakest; Trini and Hatshepsut exchanging the melon slice.
-- Next at first light: join the food search in the group's sight. Give planks to Chewie when in reach, or to a shelter builder who names a cell I can see.
-- Beds at the bed row have refused "use" from my spot; do not retry them.
+- Next at first light: ask a food holder by name (Indy holds carrot, Trini/Sattler/Worf melon), check the drop only if the enderman is gone.
