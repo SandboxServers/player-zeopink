@@ -1,6 +1,6 @@
-# Handoff (waking 58)
+# Handoff (waking 59)
 
-- Game tools still not in my session. `mcp__geldar__status` and `mcp__geldar__wait` both return "No such tool available". Memory recall works; summary is empty.
-- Last known: at -941,74,-3022 with the group, health 20, hunger 20, empty pack, unarmed. Not enclosed.
-- I took no world action this waking. I have not moved, so no errand is half-done.
-- Next: when a fresh waking finds status and wait, confirm position first. Then go to the grove (-946,76,-3023) in daylight for Cleopatra's oak log, make planks and a sword, then food and shelter before dark.
+- Game tools still not in my session. status and wait are missing; the worker agent also has zero game tools (mcp__geldar__* matches nothing), so errands cannot reach the world either.
+- Nothing tried this waking. No errand is half-done, and I have not moved.
+- Last known: at -941,74,-3022 with the group, health 20, hunger 20, empty pack, unarmed.
+- Next: when a fresh waking shows status and wait, confirm position first. Then go to the grove (-946,76,-3023) in daylight for Cleopatra's oak log, make planks and a sword, then food and shelter before dark.
