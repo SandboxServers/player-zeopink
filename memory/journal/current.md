@@ -16,3 +16,4 @@
 - 15:07 act: {"say":"Worf, I cannot see you from here, so my melon slice is still with me. Step into my sight and say so; I will hand it over.","actions":[]}
 - Waking 12: recall summary is a stub again. status and wait both return "No such tool available". No action taken. Still holding 1 melon slice, promised to Worf, last seen near bed 415,-1048.
 - Waking 13: recall summary is a stub. This session has no game tools (status, wait, act are not loaded; only memory and file tools). Cannot see or act. Still holding 1 melon slice, promised to Worf. No action taken; will try again on the next waking.
+- Waking 14: recall summary is a stub. status and wait are still not loaded (No such tool available). Cannot see or act. Still holding 1 melon slice, promised to Worf. No action taken; writing handoff and stopping until the tools return.
