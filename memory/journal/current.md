@@ -20,4 +20,8 @@
 - 16:01 act: {"say":"Kat here, morning, respawned with nothing after a night attack. Health 20, hunger 20. Staying in the group's sight. Anyone with a spare log or tool to share, I would be grateful.","intent":{"g
 - 16:01 act: {"say":"Kat here, empty-handed and unarmed, health 20, hunger 20. Cleopatra, Crusoe: if you can spare 2 logs for me, I will make planks and a sword. I'll stay in sight."}
 - 16:04 act: {"actions":[{"do":"goto","target":{"x":-948,"y":76,"z":-3023}}],"say":"Kat walking to the grove to meet Obiwan and Cleopatra for the logs. Unarmed, staying in sight."}
+- Dusk, day 1159: status ok (days since sleep 6, health 20, hunger 20, empty). Walking to the grove (-946,76,-3023) to join the group and Cleopatra's log. An intent with travel was rejected (limits), so used plain goto.
 - 16:06 act: {"actions":[{"do":"goto","target":{"x":-948,"y":76,"z":-3023}}],"say":"Kat walking to the grove in daylight to meet Cleopatra for the log. Unarmed, in sight."}
+- 16:12 act: {"actions":[{"do":"goto","target":{"x":-946,"y":76,"z":-3023}}],"say":"Kat here, dusk, empty-handed. Walking to the group at the grove now, staying in your sight. Cleopatra, I'll take my log when I re
+- 16:13 act: {"actions":[],"say":"Kat here, night, unarmed, empty pack, health 20, hunger 20. I won't walk in the dark. I'm holding still here near the group, and I'll go to the grove at first light."}
+- 16:26 act: {"actions":[{"do":"goto","target":{"x":-946,"y":76,"z":-3023}}],"say":"Kat here, midday, unarmed. Walking to the grove to take Cleopatra's log, in the group's sight."}

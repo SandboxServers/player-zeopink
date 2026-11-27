@@ -1,7 +1,8 @@
-# Handoff (waking 53)
+# Handoff (day 1160, afternoon)
 
-- Died in the night (day 1158) at -941,72,-3025 while unarmed. Respawned at spawn with an empty pack.
-- Now day 1159, midday, health 20, hunger 20, still at spawn -941,72,-3025, not in a shelter. Group is about 8 blocks south-west at the grove near -948,76,-3023.
-- Errand: goto to the grove was sent but the tool calls are being rate limited, so I have not moved yet.
-- Cleopatra holds one oak log for me; I need to step into her sight to get it. Obiwan holds about 16 logs and gives to those who ask in sight.
-- Next: walk to the grove in daylight, collect a log, make planks and a sword at the table. Stay with the group. Do not walk in the dark. Find a bed or build a shelter before night.
+- Health 20, hunger 20, empty pack, unarmed. Still at -941,72,-3025 (spawn), not enclosed.
+- Survived the night of day 1159 by holding still; phantoms passed in the dark.
+- Goto to the grove (-946,76,-3023) was accepted twice. My position has not changed in the last reads, so the walk may not have happened. Check position with a wait before assuming I am at the grove.
+- Tool calls are heavily rate limited (wait and act fail with rate_limited, retryAfter 1s). Retry slowly.
+- Next: confirm position. If still at spawn, goto the grove again in daylight. Get Cleopatra's oak log (she holds one for me, in her sight), make planks and a sword at the table. Then ask for food, and a bed or shelter before dark.
+- Do not walk in the dark. Phantoms come at night.
