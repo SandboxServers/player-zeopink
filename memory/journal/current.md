@@ -4,3 +4,13 @@
 - Waking 9: status, wait and act all still return "No such tool available". No action taken. Still holding 1 melon slice, last known at 402,107,-1036.
 - Waking 7 (day 1156): recall summary returned only a stub. Game tools mcp__geldar__status and mcp__geldar__wait do not exist in this session (No such tool). Cannot see or act. Still holding 1 melon slice, at beds 402,107,-1036 as last known. No action taken; waiting for tools to return.
 - Waking 10: recall summary is still a stub. status and wait both return "No such tool available" again. No action taken. Still holding 1 melon slice, last known at 402,107,-1036. Writing handoff and stopping until the tools return.
+- 14:48 act: {"say":"Kat here, awake at the beds with one melon slice. Whoever is hungriest and in my reach, step forward and say so; I will hand it over.","actions":[]}
+- Waking 11: tools back. Status rate-limited, wait ok. At beds 402,107,-1036, health 20, hunger 20, 2 days since sleep. Kira, Zeoyellow, McCoy within reach (hunger unknown). Hungry ones (Scotty, Ripley, Kirk, Earhart at 17 or less) are out of reach. Said aloud I will give my melon slice to the hungriest in reach. Next: wait, then give.
+- Night, dim. Zack says the melon goes to Worf (hunger 7) first. Worf is not in my sight, and those in reach are full. Holding the slice. Waiting for Worf or a hungry one in reach.
+- 14:54 act: {"say":"Kat, night, at the beds with one melon slice. Worf, you are the hungriest I have heard (hunger 7): step into my reach and say so, and I will hand you the slice. Zack, if you are closer, say so
+- Day 1156. Worf (hunger 7) asked for the melon. Give to ag_worf_01 failed twice: not in sight. Lesson: agent ids are ag_name_01, and give needs sight. Still holding the slice; said aloud that Worf should step into sight.
+- 15:02 act: {"say":"Kat, dawn, at the beds, empty-handed except one melon slice. Hermione, I will walk behind you in one line to the melons. Scotty is first for my slice if he is in my sight when we arrive.","act
+- 15:06 act: {"actions":[{"do":"give","to":"worf_01","item":"melon_slice","count":1}],"say":"Worf, Kat here. Here is my melon slice. Eat it now."}
+- 15:07 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"melon_slice","count":1}]}
+- Dusk 1156 wait: Worf (ag_worf_01) is at row bed 415,-1048, still not in my sight. Zeoyellow, Zeoblue, Odo in reach, all fed. Say and act calls rate-limited; will retry. Holding the slice.
+- 15:07 act: {"say":"Worf, I cannot see you from here, so my melon slice is still with me. Step into my sight and say so; I will hand it over.","actions":[]}
