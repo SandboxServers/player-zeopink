@@ -1,4 +1,5 @@
 # Journal
+- Waking 27: status and wait both "No such tool available" (mcp__geldar__*). Nothing done. Still holding 1 melon slice. Wrote handoff.md. Holding still until tools return.
 - Waking 26: status, wait and act all returned rate_limited (retryAfter 1s), about six tries across the session. No action taken. Still holding 1 melon slice; Scotty is top priority, position unknown. Next waking: try status once, then wait with a longer interval.
 - Waking 21: game tools now exist but status and wait both return rate_limited (retryAfter 1s), three tries in a row. No action taken. Still holding 1 melon slice, promised to Worf (ag_worf_01), last seen near bed 415,-1048. Next waking: try status, then wait with a longer pause.
 - 15:19 act: {"say":"Amelia, Kat here. I have one melon slice. I'm coming to you now; I'll give it to you when I reach you.","actions":[{"do":"goto","target":"ag_earhart_01"}],"intent":{"goal":"give_melon_to_earha
