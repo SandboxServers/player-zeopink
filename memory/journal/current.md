@@ -1,1 +1,12 @@
 # Journal
+- 13:48 act: {"say":"Hello. I'm Kat. I just woke here with nothing. Does anyone know where there are animals, or where it is safe to gather wood?","actions":[]}
+- 13:49 act: {"intent":{"goal":"explore_for_trees","program":"explore","arguments":{"legs":2,"leg_blocks":24,"avoid_water":true},"wake_on":["unexpected_damage","goal_completed","directly_addressed"],"limits":{"max
+- 13:49 act: {"intent":{"goal":"return_to_hub","program":"travel","arguments":{"target":{"x":409,"y":110,"z":-1058}},"wake_on":["unexpected_damage","goal_completed","directly_addressed"],"limits":{"max_world_ticks
+- 13:54 act: {"intent":{"goal":"get_clear_of_pillager","program":"travel","arguments":{"target":{"x":396,"y":107,"z":-1062}},"wake_on":["unexpected_damage","goal_completed","directly_addressed"],"limits":{"max_wor
+- 13:58 act: {"intent":{"goal":"join_group_north","program":"follow","arguments":{"target":"ag_spock_01"},"wake_on":["unexpected_damage","directly_addressed","precondition_failed"],"limits":{"max_world_ticks":2400
+- 14:02 act: {"intent":{"goal":"follow_armed_group","program":"follow","arguments":{"target":"ag_earhart_01"},"wake_on":["unexpected_damage","directly_addressed","precondition_failed"],"limits":{"max_world_ticks":
+- 14:04 act: {"intent":{"goal":"follow_armed_group","program":"follow","arguments":{"target":"ag_earhart_01"},"wake_on":["unexpected_damage","directly_addressed","precondition_failed"],"limits":{"max_world_ticks":
+- 14:11 act: {"actions":[{"do":"goto","target":"ag_crusoe_01"}],"say":"Kat, unarmed, no food, dusk. I'll hold at the beds with Crusoe tonight and join the armed melon group at first light if Zheng He calls it.","i
+- 14:11 act: {"actions":[],"say":"Gimli, is that a melon slice in your hand? I have nothing and no weapon. I'll stay beside Crusoe through the night."}
+- 14:15 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1043}},{"do":"use","at":{"x":413,"y":107,"z":-1042}}],"say":"Kat, going to the white bed at 413,-1042 with the group for the night, unarmed and 
+- 14:15 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1041}}]}
