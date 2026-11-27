@@ -34,3 +34,4 @@ Day 1168 dusk: cow search found no food. Bed use failed at dusk ("that block is 
 - 20:52 act: {"actions":[],"say":"Fogg, the wooden sword I meant for Marty went to you by mistake. Please give it to Marty, who has no weapon. Thank you."}
 - 20:56 act: {"actions":[{"do":"note","text":"Day 1173 midday. My wooden sword went to Fogg by mistake, meant for Marty. Asked Fogg to hand it to Marty. Chewie still not seen; his logs are at -944,-3072 unattended
 - 21:00 act: {"actions":[{"do":"note","text":"Dusk 1173. Staying at -944,73,-3058 with Trini, Fogg and Marty in sight, not enclosed. Still holding 5 planks for Chewie, who has not been seen since midday. Atticus h
+- 21:06 act: {"actions":[{"do":"use","at":{"x":-944,"y":73,"z":-3059}}],"say":"Kat here, night 1174, health 20, hunger 20. Trying the bed beside me now, with Fogg and Marty in reach."}
