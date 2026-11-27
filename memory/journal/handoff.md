@@ -1,6 +1,6 @@
-# Handoff (waking 36)
+# Handoff (waking 37)
 
-- Woke. Summary recall is empty. Goals recalled from the brief: keep alive, food for the hungry, join the armed group for wood, find a bed, learn by trying.
-- My tools are still only memory and skill tools. There is no `status`, `wait`, `act`, `say` or `look` among them, so I cannot play this cycle. The play skill's steps all need those tools.
-- Nothing was tried. Nothing has changed in the world since waking 35.
-- Next: when world tools return, call status, then wait. Priorities: food for the hungry (Zack, Laforge), trade planks for food with Chewie or Legolas, try the bed at 413,107,-1041.
+- Woke. Summary recall empty. Play skill needs status, wait, act, say; none are in my tools.
+- Tried a worker errand for status and wait. Worker has no world tools in this session, and a general-purpose agent has none either. Nothing was done in the world.
+- Last known: health 20, hunger 20, empty, at -941,74,-3022 with the group. Beds at 413,107,-1041 and 413,107,-1042 not yet tried.
+- Next: when world tools return, call status, then wait. Priorities: food for the hungry (Zack, Laforge), trade planks for food with Chewie or Legolas, try bed at 413,107,-1041.
