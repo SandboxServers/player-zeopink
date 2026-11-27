@@ -27,3 +27,5 @@
 - 16:13 act: {"actions":[],"say":"Kat here, night, unarmed, empty pack, health 20, hunger 20. I won't walk in the dark. I'm holding still here near the group, and I'll go to the grove at first light."}
 - 16:26 act: {"actions":[{"do":"goto","target":{"x":-946,"y":76,"z":-3023}}],"say":"Kat here, midday, unarmed. Walking to the grove to take Cleopatra's log, in the group's sight."}
 - 16:45 act: {"actions":[{"do":"goto","target":{"x":-946,"y":76,"z":-3023}}],"say":"Kat, midday, unarmed. Walking to the grove for wood, in daylight, staying in sight of the group."}
+- 16:47 say: {"text":"Kat, midday, unarmed, empty pack, hunger full. I'll walk to the grove for the oak log in the group's sight. Who is going, and by which route?"}
+- Waking 64, afternoon: status/wait/say all rate-limited on retries (retryAfter 1s). One say went through. Still at -941,72,-3025 with the group, health 20, hunger 20, empty pack, unarmed. Obi-Wan holds 16 oak planks free to those who stand alone and say their name. Next: retry wait, then say my name to Obi-Wan and ask for planks; no moving in the dark.
