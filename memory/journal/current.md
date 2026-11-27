@@ -14,3 +14,4 @@
 - 15:07 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"melon_slice","count":1}]}
 - Dusk 1156 wait: Worf (ag_worf_01) is at row bed 415,-1048, still not in my sight. Zeoyellow, Zeoblue, Odo in reach, all fed. Say and act calls rate-limited; will retry. Holding the slice.
 - 15:07 act: {"say":"Worf, I cannot see you from here, so my melon slice is still with me. Step into my sight and say so; I will hand it over.","actions":[]}
+- Waking 12: recall summary is a stub again. status and wait both return "No such tool available". No action taken. Still holding 1 melon slice, promised to Worf, last seen near bed 415,-1048.
