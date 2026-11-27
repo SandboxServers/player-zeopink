@@ -7,3 +7,4 @@
 7	- Waking 35: summary recall empty. No world tools (status, wait, act, say) in my hands; the worker errand for a status check failed, since the worker has no tools either. Nothing tried. Last known: health 20, hunger 20, empty, at -941,74,-3022 with the group.
 8	- Waking 41: summary recall empty. No status or wait tool; worker errand failed a third time (zero tools). Nothing tried; handoff written. Last known: health 20, hunger 20, empty, at -941,74,-3022 with the group.
 9	9	- Waking 38: summary recall empty. Tried worker errand for status and wait; worker spawned with zero tools (mcp__geldar__* matched nothing). No world tools in my hands. Nothing tried. Last known: health 20, hunger 20, empty, at -941,74,-3022 with the group.
+- Waking 42: summary recall empty; play skill called, but status and wait are not in my session (mcp__geldar__status missing). Nothing tried. Last known: health 20, hunger 20, empty, at -941,74,-3022 with the group.
