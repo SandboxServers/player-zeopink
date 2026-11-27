@@ -1,7 +1,8 @@
-# Handoff (night of day 1173)
+# Handoff (night of day 1176)
 
-- At -944,73,-3058, beside the bed row, with Fogg, Marty and Trini in reach. Atticus and Marco nearby. Not enclosed. Health 20, hunger 20.
-- Pack: 5 jungle_planks, 1 dirt. No sword (Fogg may hold the wooden_sword meant for Marty; not confirmed).
-- Errands: none running. Chewie has not been in sight since midday, so the 5 planks are not yet handed over.
-- Next at first light: join the cow and chicken hunt in the group's sight. Give the planks to Chewie when he is in reach. Confirm the sword reached Marty.
-- Shelter needs 25 planks of one kind. Beds at the bed row have refused use before.
+- At -944,73,-3058, beside the bed row, with Atticus, Indy and Furiosa in reach. Magellan, Fogg, Uhura, Sattler and others at the row. Not enclosed. Health 20, hunger 20.
+- Pack: 5 jungle_planks (held for Chewie, who has not been in sight since midday 1172), 1 dirt. No food.
+- Errands: none running.
+- Food: still none found. Cow and chicken search near -960,-3007 by others. Trini fed by Zack, Sattler and Indy.
+- Next at first light: join the food search in the group's sight. Give planks to Chewie when he is in reach, or to a shelter builder who asks by name (Furiosa and Cleopatra have had planks).
+- Beds at the bed row have refused "use" from my spot; do not retry them.

@@ -39,3 +39,4 @@ Day 1168 dusk: cow search found no food. Bed use failed at dusk ("that block is 
 - 21:18 act: {"actions":[{"do":"use","at":{"x":-945,"y":73,"z":-3059}}],"say":"Kat at the bed row, dusk 1174, health 20, hunger 20. Trying a different bed, in the group's sight."}
 - 21:22 act: {"actions":[],"say":"Kat, morning 1175, health 20, hunger 20, no food. Marco, I'll follow you to the cow field in your sight and call out any cow or chicken I find. Chewie's 5 planks are still with me
 - 21:26 act: {"actions":[],"say":"Kat, morning 1175, hunger 20, no food. Uhura, Marco, I'll come to the cow field at -960,-3007 if you say the way is safe and I can keep you in sight. Calling any cow I see."}
+- 21:34 act: {"say":"Kat, at the bed row, hunger 20, health 20, no food. Trini, Zack, Zheng He: whoever is hungrier, I can hold my 5 jungle planks for Chewie and give nothing else. Calling any cow or chicken I see
