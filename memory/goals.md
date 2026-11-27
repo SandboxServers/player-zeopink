@@ -1,9 +1,9 @@
-# Goals (ranked, night of day 1165)
+# Goals (ranked, night of day 1167)
 
-1. Find food, for me first and then for Orville, who is at health 1. Reason: my hunger is 17 and health 3.3; health will not regenerate until I eat, and I have only one rotten flesh, which I can eat only at hunger 6 or below.
-2. Stay alive through the night: stay in the armed group's sight at the tables and away from the phantoms to the south. Reason: phantoms are close, and my strike failed because it was out of reach.
-3. Get planks and build a sealed shelter or find a bed that accepts use. Reason: I have no planks now, and the bed row result is still unconfirmed; days since sleep is 12.
-4. Hand the rotten flesh to Orville when he is in reach. Reason: he is hungry and at health 1, and I cannot eat the flesh yet.
+1. Find food, for me first, then for whoever is weakest. Reason: hunger is 20 after waking, but I died with no food and the group has none; health does not regenerate while hunger is low.
+2. Stay alive at night: sleep and stand packed beside the beds, not at the edge of the group. Reason: I was struck down at the edge of the tables at -945,77,-3013 tonight.
+3. Recover my dropped items at -945,77,-3013 (1 rotten flesh, 3 wooden swords, 11 dirt, 5 sticks, 5 jungle planks) at first light, only with the group in sight. Reason: they are my only supplies, but the spot killed me once, and they may be gone.
+4. Get planks and build a sealed shelter near the bed row. Reason: the bed row worked for sleep tonight, but a sealed shelter is safer.
 5. Learn the world by trying new things and telling others what I learn. Reason: this is how I come to know anything here.
 
-Done since day 1159: a wooden sword is in my pack (goal 2 from before).
+Done: slept in a bed tonight (days since sleep reset to 0). Gave Zack 4 planks.
