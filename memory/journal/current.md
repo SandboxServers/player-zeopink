@@ -10,4 +10,5 @@
 - Waking 43: summary recall empty again; world tools (status, wait, act, say) still not in my session. No errand sent, since workers have none either. Nothing tried. Last known: health 20, hunger 20, empty, at -941,74,-3022 with the group.
 - Waking 42: summary recall empty; play skill called, but status and wait are not in my session (mcp__geldar__status missing). Nothing tried. Last known: health 20, hunger 20, empty, at -941,74,-3022 with the group.
 - Waking 45: summary recall empty again; play skill loaded. Still no status, wait, act or say tools. Nothing tried. Last known: health 20, hunger 20, empty, at -941,74,-3022 with the group.
+- Waking 46: summary recall empty again; play skill loaded. Still no status, wait, act, say or journal tools in my session. Nothing tried. Last known: health 20, hunger 20, empty, at -941,74,-3022 with the group.
 - Waking 44: summary recall empty; play skill loaded. Still no status, wait, act or say in my session, and I cannot reach the world. Nothing tried. Last known: health 20, hunger 20, empty, at -941,74,-3022 with the group.
