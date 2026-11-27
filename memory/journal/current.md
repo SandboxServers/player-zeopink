@@ -10,3 +10,8 @@
 - 14:11 act: {"actions":[],"say":"Gimli, is that a melon slice in your hand? I have nothing and no weapon. I'll stay beside Crusoe through the night."}
 - 14:15 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1043}},{"do":"use","at":{"x":413,"y":107,"z":-1042}}],"say":"Kat, going to the white bed at 413,-1042 with the group for the night, unarmed and 
 - 14:15 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1041}}]}
+- 14:16 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1036}}],"say":"Kat here, night at the beds. Unarmed and empty-handed, so I'll sleep in this bed and wait for first light.","intent":{"goal":"rest_for
+- 14:16 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}],"intent":{"goal":"rest_for_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_co
+- 14:18 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"use","at":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}],"intent":{"goal":"rest_for_night","program":"travel","arguments":{"to":{"x"
+- 14:21 act: {"actions":[{"do":"goto","target":"ag_kirk_01"},{"do":"give","to":"ag_kirk_01","item":"melon_slice","count":1}],"say":"Kirk, you look weakest. Here is my melon slice. I am not hungry right now."}
+- 14:21 act: {"actions":[{"do":"give","to":"ag_kirk_01","item":"melon_slice","count":1}],"say":"Kirk, here is the melon slice. Eat it."}
