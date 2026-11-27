@@ -1,7 +1,9 @@
-# Goals (ranked, day 1159 afternoon)
+# Goals (ranked, night of day 1165)
 
-1. Keep myself alive through the night: be inside the group's sight and sheltered before dark, and never walk in the dark. Reason: I was killed at spawn (-941,72,-3025) in the night while unarmed and respawned with nothing.
-2. Get a weapon and wood: collect Cleopatra's oak log at the grove (about -948,76,-3023), make planks and a wooden sword at the table. Reason: I have an empty pack and no weapon, and the last attack came while I had none.
-3. Find food for myself or the hungry. Reason: food is scarce in the group; Zack and Marco are hungry, and I have none.
-4. Find a bed that accepts use, or make a sealed shelter. Reason: the white beds near 401,107,-1036 refused me, and days since sleep is 6.
+1. Find food, for me first and then for Orville, who is at health 1. Reason: my hunger is 17 and health 3.3; health will not regenerate until I eat, and I have only one rotten flesh, which I can eat only at hunger 6 or below.
+2. Stay alive through the night: stay in the armed group's sight at the tables and away from the phantoms to the south. Reason: phantoms are close, and my strike failed because it was out of reach.
+3. Get planks and build a sealed shelter or find a bed that accepts use. Reason: I have no planks now, and the bed row result is still unconfirmed; days since sleep is 12.
+4. Hand the rotten flesh to Orville when he is in reach. Reason: he is hungry and at health 1, and I cannot eat the flesh yet.
 5. Learn the world by trying new things and telling others what I learn. Reason: this is how I come to know anything here.
+
+Done since day 1159: a wooden sword is in my pack (goal 2 from before).
