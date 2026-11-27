@@ -25,3 +25,4 @@
 - 16:12 act: {"actions":[{"do":"goto","target":{"x":-946,"y":76,"z":-3023}}],"say":"Kat here, dusk, empty-handed. Walking to the group at the grove now, staying in your sight. Cleopatra, I'll take my log when I re
 - 16:13 act: {"actions":[],"say":"Kat here, night, unarmed, empty pack, health 20, hunger 20. I won't walk in the dark. I'm holding still here near the group, and I'll go to the grove at first light."}
 - 16:26 act: {"actions":[{"do":"goto","target":{"x":-946,"y":76,"z":-3023}}],"say":"Kat here, midday, unarmed. Walking to the grove to take Cleopatra's log, in the group's sight."}
+- 16:45 act: {"actions":[{"do":"goto","target":{"x":-946,"y":76,"z":-3023}}],"say":"Kat, midday, unarmed. Walking to the grove for wood, in daylight, staying in sight of the group."}
