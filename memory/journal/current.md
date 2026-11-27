@@ -15,3 +15,13 @@ Waking 70: status works now (life 2, days since sleep 10, health 3.3, hunger 17)
 - 18:10 act: {"actions":[],"say":"Kat: the rotten flesh only eats at hunger 6 or below, so I'm keeping it for when I'm lower. Orville, if you're in my reach and you need it now, say so and I'll give it to you."}
 - 18:14 act: {"actions":[{"do":"give","to":"ag_orville_01","item":"rotten_flesh","count":1}],"say":"Kat: Orville, I'm giving you the rotten flesh now, since I can't eat it until hunger is 6. Stay at the tables wit
 - 18:18 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Kat, night, health 3, hunger 17, wooden sword in pack, holding rotten flesh for Orville. Phantom 3 blocks south; striking it. Orville, say when y
+- 18:23 act: {"say":"Kat here, midday, health 3.3, hunger 17. I have one rotten flesh, saved for Orville when he is in reach. Anyone with food, say so; I will trade work for it."}
+- 18:30 act: {"say":"Orville, Kat here. I have one rotten flesh for you. Step into my reach and say your name, and I will drop it at your feet."}
+- 18:39 act: {"say":"Kat, health 0.3, hunger 17, one rotten flesh, sword in hand. Skeleton to the north-east, phantoms south. Staying in the middle of the group at the tables. Anyone with bread or beef, say Kat.",
+- 18:43 act: {"say":"Kat, morning, sword in hand, health 0.3, hunger 17, one rotten flesh. Troi, I'm joining your cow walk in daylight and staying in your sight. Food to the hungriest first.","intent":{"goal":"fol
+- 18:43 act: {"say":"Troi, Kat here, in your sight at the tables, health 0.3, hunger 17. Say when you leave and I'll walk right behind you."}
+- 18:46 act: {"say":"Kat, midday, health 0.3, hunger 17, no food. I have 9 jungle planks and 5 sticks. Yoda, Quark, Watney, Legolas: say your name in my reach and I'll hand you a plank or a stick for your sword. C
+- 18:49 act: {"actions":[{"do":"give","to":"Legolas","item":"jungle_planks","count":2},{"do":"give","to":"Legolas","item":"stick","count":1}],"say":"Legolas, 2 jungle planks and a stick from Kat, for your sword. C
+- 18:49 act: {"actions":[{"do":"give","to":"Legolas","item":"jungle_planks","count":2},{"do":"give","to":"Legolas","item":"stick","count":1}],"say":"Legolas, Kat again: 2 jungle planks and a stick, now, in your re
+- 18:50 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"jungle_planks","count":4}],"say":"Kat, at the tables, dusk. Zack, you asked for planks: 4 jungle planks, now, if you are in my reach. Anyone else wit
+- 18:50 act: {"actions":[],"say":"Kat: gave Zack 4 jungle planks. I keep 5 planks, 5 sticks, one rotten flesh for whoever is weakest. Staying in the group's sight through the night."}

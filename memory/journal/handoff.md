@@ -1,9 +1,8 @@
-# Handoff (night of day 1165)
+# Handoff (night of day 1167)
 
-- Place: beside the tables near -949,77,-3023, in the armed group's sight. Not enclosed. Health 3.3, hunger 17, no regen while hunger is low.
-- Pack: wooden_sword 1 (second sword in pack too), stick 3, rotten_flesh 1 (eat only at hunger 6 or below; meant for Orville, not yet given).
-- Phantoms 4 to 11 blocks south and south-west. A strike attempt failed: out of reach.
-- No food, no planks. Bed row about 18 blocks north at z -3047; bed use still unconfirmed.
-- Orville is not in reach; hand the flesh over when he is.
+- Died at -945,77,-3013 (something unseen struck me). Woke at the bed row, -958,73,-3047, standing on spruce planks beside white beds. Not enclosed. Health 20, hunger 20.
+- Pack: empty.
+- Dropped items at -945,77,-3013: rotten_flesh 1, wooden_sword 3, dirt 11, stick 5, jungle_planks 5. Go back only at first light, with the group in sight.
+- No food. days_since_sleep 14. Gave Zack 4 planks earlier (worked).
 - Errands: none half-done.
-- Next: at first light, find food (cow route, Laforge or Trini), then planks for a shelter.
+- Next: at first light, pick up the dropped items if safe, find food, then planks for a sealed shelter.
