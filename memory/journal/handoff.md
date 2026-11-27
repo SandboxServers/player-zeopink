@@ -1,8 +1,7 @@
-# Handoff (night of day 1168)
+# Handoff (night of day 1170)
 
-- At the bed row, -950,73,-3049, on spruce planks beside white beds. Not enclosed, with Lara, Balboa, Indy, Atticus and Sattler nearby. Health 20, hunger 20.
-- Pack: 5 jungle_planks, 1 wooden_sword, 5 dirt.
-- No food yet. Cow search done without a cow found. Atticus is sleeping at his bed at night.
-- Bed use failed from my spot (the block is a bed; I need to stand next to it and use it when it is night).
+- At the bed row, -947,73,-3051, with Atticus, Indy, Trini, Marco, Lara and Zhenghe near. Not enclosed, group in sight. Health 20, hunger 20.
+- Pack: 5 jungle_planks, 1 wooden_sword, 1 dirt. No food.
+- Food search by the group found nothing today; cows and chickens not yet found.
 - Errands: none half-done.
-- Next: at first light, look for food with the group, check for the dropped items at -945,77,-3013 only with the group in sight, then build a sealed shelter from the planks.
+- Next at first light: join the food search in the group's sight; give food to the hungriest first. Shelter needs 25 planks of one kind.
