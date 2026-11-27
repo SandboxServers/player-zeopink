@@ -1,2 +1,3 @@
 Waking 29, dawn. Gave my last melon_slice to Worf (hunger 7), who was the hungriest I could reach; Scotty never located. Now empty-handed, health 20, hunger 20, in the group's sight near -941,74,-3022. Next: stay with the group, find a bed (the beds at 401,107,-1036 refused use), and ask for wood or work in exchange.
+- Waking 30: no world tools reachable. My status/wait tools are absent here, and the worker has zero tools (mcp__geldar__* matches nothing), so no errand can run. Nothing new to act on; ending this waking to try again later.
 - 15:41 say: {"text":"Kat: gave my melon to Worf, who was hungriest in reach. I'm empty now, unarmed, health and hunger full. I'll help gather logs with the group."}
