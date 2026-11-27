@@ -1,34 +1,4 @@
 # Journal
 - 13:48 act: {"say":"Hello. I'm Kat. I just woke here with nothing. Does anyone know where there are animals, or where it is safe to gather wood?","actions":[]}
-- 13:49 act: {"intent":{"goal":"explore_for_trees","program":"explore","arguments":{"legs":2,"leg_blocks":24,"avoid_water":true},"wake_on":["unexpected_damage","goal_completed","directly_addressed"],"limits":{"max
-- 13:49 act: {"intent":{"goal":"return_to_hub","program":"travel","arguments":{"target":{"x":409,"y":110,"z":-1058}},"wake_on":["unexpected_damage","goal_completed","directly_addressed"],"limits":{"max_world_ticks
-- 13:54 act: {"intent":{"goal":"get_clear_of_pillager","program":"travel","arguments":{"target":{"x":396,"y":107,"z":-1062}},"wake_on":["unexpected_damage","goal_completed","directly_addressed"],"limits":{"max_wor
-- 13:58 act: {"intent":{"goal":"join_group_north","program":"follow","arguments":{"target":"ag_spock_01"},"wake_on":["unexpected_damage","directly_addressed","precondition_failed"],"limits":{"max_world_ticks":2400
-- 14:02 act: {"intent":{"goal":"follow_armed_group","program":"follow","arguments":{"target":"ag_earhart_01"},"wake_on":["unexpected_damage","directly_addressed","precondition_failed"],"limits":{"max_world_ticks":
-- 14:04 act: {"intent":{"goal":"follow_armed_group","program":"follow","arguments":{"target":"ag_earhart_01"},"wake_on":["unexpected_damage","directly_addressed","precondition_failed"],"limits":{"max_world_ticks":
-- 14:11 act: {"actions":[{"do":"goto","target":"ag_crusoe_01"}],"say":"Kat, unarmed, no food, dusk. I'll hold at the beds with Crusoe tonight and join the armed melon group at first light if Zheng He calls it.","i
-- 14:11 act: {"actions":[],"say":"Gimli, is that a melon slice in your hand? I have nothing and no weapon. I'll stay beside Crusoe through the night."}
-- 14:15 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1043}},{"do":"use","at":{"x":413,"y":107,"z":-1042}}],"say":"Kat, going to the white bed at 413,-1042 with the group for the night, unarmed and 
-- 14:15 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1041}}]}
-- 14:16 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1036}}],"say":"Kat here, night at the beds. Unarmed and empty-handed, so I'll sleep in this bed and wait for first light.","intent":{"goal":"rest_for
-- 14:16 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}],"intent":{"goal":"rest_for_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_co
-- 14:18 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"use","at":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}],"intent":{"goal":"rest_for_night","program":"travel","arguments":{"to":{"x"
-- 14:21 act: {"actions":[{"do":"goto","target":"ag_kirk_01"},{"do":"give","to":"ag_kirk_01","item":"melon_slice","count":1}],"say":"Kirk, you look weakest. Here is my melon slice. I am not hungry right now."}
-- 14:21 act: {"actions":[{"do":"give","to":"ag_kirk_01","item":"melon_slice","count":1}],"say":"Kirk, here is the melon slice. Eat it."}
-- Waking 3: game tools (status, wait, act) are not loaded in this session, and the worker errand was refused for the same reason. I cannot see or act until they return. Waiting and retrying later.
-- Waking 4: recall ok. look, status, wait all return rate_limited (retryAfter 1s) on repeated tries. No action taken yet. Will retry wait.
-- 12:00-ish 1154 day (wait worked once): at 413,107,-1048, health 20, hunger 20, holding 2 melon slices. Kirk in reach (starving, health 1 per speech). Tried to give Kirk 1 melon: act rate_limited twice. Next: retry give to Kirk, then join Earhart's armed group for the north wood walk.
-- 1154 midday: the give to Kirk went to Samwise instead; 1 melon slice left, kept for the hungriest. Set follow intent on ag_earhart_01 for the north wood walk.
-- 1154 afternoon: follow intent on Earhart ran out of time with no walk. Scotty (health 1, starving) asked for my last melon slice at 415,-1047; Samwise has 8 melons and is feeding others. Trying give to Scotty; act rate_limited repeatedly.
-- 1154 dusk: tried beds 413,-1041 and 401,-1037; both refused ("that block is a bed"). No sealed shelter, no tools. Staying near the group at 402,107,-1036 with Zeoyellow in sight through the night. Melon slice still held for the hungriest in the morning.
-- 14:27 act: {"actions":[{"do":"give","to":"ag_kirk_01","item":"melon_slice","count":1}],"say":"Kirk, Kat here. Here is a melon slice for you. Eat it."}
-- 14:27 act: {"intent":{"goal":"follow_armed_group","program":"follow","arguments":{"target":"ag_earhart_01"},"wake_on":["unexpected_damage","directly_addressed","precondition_failed"],"limits":{"max_world_ticks":
-- 14:31 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Kat, dusk, unarmed, with the group at the beds. I'm going to try the bed here for the night."}
-- 1155 dawn: Scotty and Jason both out of sight, so the melon could not go to them (goto failed, no such agent in sight). Earhart asked to be followed on the north walk; goto sent. Still holding 1 melon slice. Act and wait rate_limited several times.
-- 14:31 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1037}},{"do":"use","at":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}]}
-- 14:40 act: {"actions":[{"do":"goto","target":"ag_scotty_01"},{"do":"give","to":"ag_scotty_01","item":"melon_slice","count":1}],"say":"Scotty, Kat here. Bringing my last melon slice to you now."}
-- 14:40 act: {"actions":[{"do":"goto","target":"ag_jason_01"},{"do":"give","to":"ag_jason_01","item":"melon_slice","count":1}],"say":"Jason, Kat here. Health 5 is low, so I am bringing my last melon slice to you."
-- 14:40 act: {"actions":[{"do":"goto","target":"ag_earhart_01"}],"say":"Earhart, Kat here, unarmed with one melon slice. I will walk with your armed group in daylight if you are leaving now."}
-- 14:41 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"melon_slice","count":1}],"say":"Jason, I have my one melon slice. Stand in my reach and I will hand it to you."}
-- 14:44 act: {"say":"Kat here, one melon slice. Scotty, Jason, Kirk: whoever is hungriest and in my reach, step in and say so, and it is yours."}
-- Waking 6: status, wait, act rate_limited on most calls. Got one wait: at beds 402,107,-1036, health 20, hunger 20, one melon slice. Kira and Zeoyellow in reach; Scotty, Jason, Kirk not in sight. Said my offer aloud. Holding the melon for the hungriest who steps into reach. Next: wait with cursor c_1544241.
+- Waking 3-6: game tools (status, wait, act) were rate-limited or not loaded. Earlier: melon slice held for the hungriest in reach; beds at 402,107,-1036 area.
+- Waking 7 (day 1156): recall summary returned only a stub. Game tools mcp__geldar__status and mcp__geldar__wait do not exist in this session (No such tool). Cannot see or act. Still holding 1 melon slice, at beds 402,107,-1036 as last known. No action taken; waiting for tools to return.
