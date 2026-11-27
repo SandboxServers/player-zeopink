@@ -40,3 +40,12 @@ Day 1168 dusk: cow search found no food. Bed use failed at dusk ("that block is 
 - 21:22 act: {"actions":[],"say":"Kat, morning 1175, health 20, hunger 20, no food. Marco, I'll follow you to the cow field in your sight and call out any cow or chicken I find. Chewie's 5 planks are still with me
 - 21:26 act: {"actions":[],"say":"Kat, morning 1175, hunger 20, no food. Uhura, Marco, I'll come to the cow field at -960,-3007 if you say the way is safe and I can keep you in sight. Calling any cow I see."}
 - 21:34 act: {"say":"Kat, at the bed row, hunger 20, health 20, no food. Trini, Zack, Zheng He: whoever is hungrier, I can hold my 5 jungle planks for Chewie and give nothing else. Calling any cow or chicken I see
+- 21:47 act: {"intent":{"goal":"find_food_near_group","program":"explore","arguments":{"legs":2,"leg_blocks":16,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"
+- 21:47 act: {"actions":[{"do":"goto","target":{"x":-948,"y":73,"z":-3051}}],"say":"Kat here, morning 1176, hunger 20, no food. The search walked me north, so I'm coming back to the bed row to stay in the group's 
+- 21:52 act: {"say":"Kat, morning 1176, hunger 20, no food. Zack is weakest at 6.7, so Trini's melon stays with him. Chewie's 5 jungle planks are still with me; Han, if you're in my sight at the bed row, say your 
+- 22:00 act: {"actions":[{"do":"goto","target":{"x":-947,"y":73,"z":-3051}}],"say":"Kat, at the bed row, night 1176, hunger 20, health 20. Still holding Chewie's 5 jungle planks. Shelter builder: name your cell an
+- 22:04 act: {"say":"Kat, morning 1177, hunger 20, no food. Joining the cow hunt west in sight of Lara and the group. Chewie's 5 planks still with me for a named cell.","intent":{"goal":"follow_lara_cow_hunt","pro
+- 22:05 act: {"say":"Kat, day 1177, hunger 20, no food. Following Lara on the cow hunt west, in sight. Meat goes to Zack and the hungriest first.","intent":{"goal":"follow_lara_cow_hunt","program":"follow","argume
+- 22:11 act: {"actions":[{"do":"goto","target":{"x":-954,"y":73,"z":-3050}}],"say":"Kat, dusk 1177, hunger 20, no food found on the hunt. There is an item on the ground near -954,73,-3050; I'm checking it, then go
+- 22:11 act: {"actions":[{"do":"goto","target":{"x":-953,"y":73,"z":-3049}}]}
+- 22:14 act: {"actions":[{"do":"goto","target":{"x":-952,"y":73,"z":-3052}}],"say":"Trini, Kat stepping back to give you room for Hatshepsut. I'm at the bed row, not enclosed, holding Chewie's 5 jungle planks. No 
