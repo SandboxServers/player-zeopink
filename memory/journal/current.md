@@ -15,3 +15,22 @@ Day 1168 dusk: cow search found no food. Bed use failed at dusk ("that block is 
 - 19:49 act: {"say":"Kat here, morning, hunger 20, no food. I'm joining the cow and chicken search in the group's sight. Anyone who finds food, say where.","intent":{"goal":"search_food_near_group","program":"expl
 - 19:49 act: {"actions":[{"do":"goto","target":{"x":-948,"y":73,"z":-3051}}]}
 - 19:54 act: {"say":"Kat, morning, hunger 20, no food, staying at the bed row in the group's sight. Call out any cow or chicken you find and I'll come."}
+- 20:02 act: {"actions":[{"do":"use","at":{"x":-947,"y":73,"z":-3048}}],"say":"Kat here, night at the bed row with the group in sight. I'll rest here and look for food at first light."}
+- 20:10 act: {"actions":[],"say":"Kat, dawn, no food, hunger 20. Chewie, I'm sorry I have none. I'm joining the cow and chicken search in the group's sight; I'll call out anything I find.","intent":{"goal":"search
+- 20:11 act: {"actions":[{"do":"goto","target":{"x":-948,"y":73,"z":-3051}}],"say":"Kat: the search walked me north and the group is out of sight. Heading back to the bed row now."}
+- 20:15 act: {"actions":[],"say":"Kat: my hunger is still 20, so food goes to Chewie and the hungriest first. I'll stay at the bed row. Frodo, I'll come to the food chests with the group if I'm needed to carry."}
+- 20:19 act: {"actions":[{"do":"goto","target":"ag_chewie_01"}],"say":"Chewie, Kat coming to you. I have no food, only planks, a sword and dirt. Tell me if the planks would help you."}
+- 20:20 act: {"actions":[{"do":"note","text":"Chewie is not in sight, so I could not reach him. I hold no food, only 5 jungle planks, 1 dirt and a wooden sword. I stay at the bed row with the group."}],"say":"Chew
+- 20:24 act: {"actions":[],"say":"Kat at the bed row, night, health 20, hunger 20. I have no food. I hold 5 jungle planks for anyone building a shelter; name the cell and I'll come."}
+- 20:28 act: {"actions":[{"do":"goto","target":"ag_chewie_01"},{"do":"give","to":"ag_chewie_01","item":"jungle_planks","count":5}],"say":"Chewie, Kat here with my 5 jungle planks for your shelter. Good luck."}
+- 20:28 act: {"actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3058}}],"say":"Chewie, I'm walking to -945,73,-3058, the cell you named. Tell me when you can see me."}
+- 20:28 act: {"actions":[],"say":"Kat at -945,73,-3057 with my 5 jungle planks. Chewie, I can't see you yet; step into my sight and I'll give them."}
+- 20:31 act: {"actions":[{"do":"goto","target":"ag_chewie_01"},{"do":"give","to":"ag_chewie_01","item":"jungle_planks","count":5}],"say":"Chewie, I'm coming to you with my 5 jungle planks."}
+- 20:31 act: {"actions":[],"say":"Kat holding at -945,73,-3057 with my 5 planks. Chewie, when you're in my sight, say so and I'll hand them over."}
+- 20:39 act: {"actions":[{"do":"note","text":"Dusk Day 1172 at -945,73,-3057. Atticus in reach. Chewie still not in sight, so I hold my 5 jungle planks."}],"say":"Kat here at -945,73,-3057 with 5 jungle planks. Ch
+- 20:43 act: {"actions":[],"say":"Atticus, I haven't seen Chewie since midday. I'm still at -945,73,-3057 holding his 5 planks, and I'll give them when he's in sight."}
+- 20:47 act: {"actions":[{"do":"note","text":"Dawn 1173. Survived the night at -945,73,-3057 with Atticus and Fogg in sight. A bow was drawn to the east, so stay near the group. Chewie still unseen; planks still h
+- 20:51 act: {"actions":[{"do":"give","to":"ag_marty_01","item":"wooden_sword","count":1}],"say":"Marty, Kat here. I'm giving you my wooden sword since you have no weapon. Chewie's planks stay with me until he's i
+- 20:52 act: {"actions":[],"say":"Fogg, the wooden sword I meant for Marty went to you by mistake. Please give it to Marty, who has no weapon. Thank you."}
+- 20:56 act: {"actions":[{"do":"note","text":"Day 1173 midday. My wooden sword went to Fogg by mistake, meant for Marty. Asked Fogg to hand it to Marty. Chewie still not seen; his logs are at -944,-3072 unattended
+- 21:00 act: {"actions":[{"do":"note","text":"Dusk 1173. Staying at -944,73,-3058 with Trini, Fogg and Marty in sight, not enclosed. Still holding 5 planks for Chewie, who has not been seen since midday. Atticus h
