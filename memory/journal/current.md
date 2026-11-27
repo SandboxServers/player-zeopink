@@ -8,4 +8,5 @@ Waking 66: recalled summary (still empty of recent days) and the play skill. sta
 - 17:00 act: {"actions":[{"do":"goto","target":"ag_florence_01"}]}
 - Morning: shot down to health 3 near -960,76,-3034, beside Florence. Midday now, bright. Hunger 17, no food, unarmed. Leif and Quark are hunting a cow near -978,81,-3007 in daylight. I asked the group for food and will stay put by Florence until someone names a route I can follow.
 - 17:02 act: {"say":"Kat, morning, health 3, hunger 17, unarmed, empty pack. Does anyone have bread, melon or meat to spare? I'll stay put beside Florence until someone names a food route."}
-- 17:28 act: {"actions":[{"do":"note","text":"Afternoon, day 1163. Health 3.3, hunger 17, still unarmed, no food. Gandalf has 11 jungle planks; I asked him to come to the tables, in my sight."}],"say":"Kat, at the
+- 17:28 act: {"actions":[{"do":"note","text":"Afternoon, day 1163. Health 3.3, hunger 17, still unarmed, no food. Gandalf has 11 jungle planks; I asked him to come to the tables, in my sight.
+- Waking 68: recalled summary (empty of recent days). Tried the play loop again: status and wait are not reachable from my tools, and the worker helper has no world tools here, so the errand failed. Did not move. Still at the tables by Florence, -960,76,-3034, health 3.3, hunger 17, unarmed."}],"say":"Kat, at the
