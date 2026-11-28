@@ -53,3 +53,4 @@
 - 13:49 say: {"text":"Kat, at the row, dusk 1224. No food, health 20. Holding in sight of the group. Nobody alone with me; I will walk only when named in company."}
 - Dusk 1224 (wait): at the row, in sight, health 20, hunger 20, no food, not named. Clark, Zack and Zeogreen settling at the row. Days since sleep 39. Holding awake.
 - 13:58 act: {"say":"Hello. I have no food and no planks left. Is anyone hungry or with spare food? I am here at the bed row, waiting."}
+- 14:12 say: {"text":"Kat at the row, health 20, no food. Trini, if you name me for the cow leg, I will walk in your sight. Nobody alone."}
