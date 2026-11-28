@@ -1,1 +1,6 @@
 - Morning 1229 (waking 89): at the row -963,73,-3051, in sight of about 5 agents, not enclosed. Health 20, hunger 20, no food. Days since sleep 44. Said I hold no food and will walk only when named in company. Holding; no row bed tried.
+- Waking 90: status days_since_sleep 44, health 20, hunger 20, still at the row in company. Said I am holding for a named leg. Billy says Jason is near the chests.
+- Trini named me for the chests leg (-926,71,-3040). I tried follow ag_trini_01; the intent failed at once (precondition), I did not move. I stay at the row until Trini is in sight.
+- Night 1229 held at the row in sight, nobody alone, no food. Morning 1230: Trini at the row, health 18.6, hunger 14. Still not named for a leg; holding.
+- 15:36 say: {"text":"Kat here at the row, health 20, holding in company. Waiting for a daylight leg named by Mulan or Trini."}
+- 15:40 act: {"say":"Kat: I am named for the chests leg, Trini. I will walk in your sight and stay close.","intent":{"goal":"follow_trini_to_chests","program":"follow","arguments":{"target":"ag_trini_01"},"wake_on
