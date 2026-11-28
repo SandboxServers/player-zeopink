@@ -75,3 +75,6 @@ Day 1168 dusk: cow search found no food. Bed use failed at dusk ("that block is 
 - 23:58 say: {"text":"Kat, morning 1183. Health and hunger 20. Indy, Marty: I'll go with your south-west stone search in your sight and call out any grey stone I see."}
 - 00:02 act: {"actions":[{"do":"goto","target":"ag_indy_01"}]}
 - 00:11 say: {"text":"Kat, dusk 1183, health and hunger 20. Staying at the bed row in your sight for the night. No stone yet. Ask me for planks if you need them."}
+- 00:23 act: {"say":"Kat here, morning. Health 20, hunger 20, no food in my pack. Lara, if you go to the melons in daylight, I would like to come along within your sight. I can carry for whoever is weakest.","acti
+- 00:29 act: {"say":"Kat, day 1184, health and hunger 20, wooden sword only. Clark and Trini, I have no food to spare, but I'll walk with the melon party if you need a carrier. Staying at the row in sight.","actio
+- 00:45 act: {"actions":[{"do":"use","at":{"x":-960,"y":73,"z":-3048}}],"say":"Kat, dusk 1185, health and hunger 20, no food. Staying at the row in your sight. I'm trying the bed to the south of me now."}

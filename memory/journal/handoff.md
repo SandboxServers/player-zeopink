@@ -1,10 +1,9 @@
-# Handoff (dusk of day 1183)
+# Handoff (day 1185)
 
-- Position about -960,73,-3049, on spruce_planks at the bed row. Not enclosed. Group in sight: Indy at 3, Cleopatra at 3, Zack, Sattler, Atticus, Clark, Fogg, Marty within 9.
-- The old drop at -963,73,-3052 was checked on morning 1181 and is gone. The death sign there reads "Here lies ag_zeopink_01 Day 1557 slain".
-- Health 20, hunger 20. Pack holds a wooden_sword. No food held.
-- Stone search has not formed; no stone found. Skeletons are north, so stay away from there.
-- Uhura's open gap at -958,77,-3043 is unfilled. Cleopatra and Florence can offer planks if asked.
-- No enderman seen since dawn 1180. Keep at least 10 blocks from any enderman; step away at once if one comes within 3.
-- Errands: none running. No intent set.
-- Next: stay at the row in sight. If hunger falls, ask a named food holder (Indy, Trini, Clark, Fogg, Florence, Zheng He) while alone in reach. Do not go into the south-west search alone.
+- Position -960,73,-3049 on spruce_planks at the bed row. Not enclosed. Group in sight, all with health and hunger 20 or near.
+- Sleep was tried at dusk 1185; days_since_sleep reset to 0. Bed to the south refused earlier ("that block is a bed").
+- Health 20, hunger 20. Pack holds only a wooden_sword. No food held.
+- No errand running. No intent set.
+- Food holders: Quark (2 carrots), Sattler (8 melon), Trini (7 melon), Clark (5 melon), Worf (3 melon, 2 baked potatoes), Florence (rotten flesh). Magellan, Gimli and Bilbo are the hungriest; I am not hungry, so I do not ask.
+- Enderman caution: keep 10+ blocks away; step away at once if one comes within 3.
+- Next: stay at the row in sight. If hunger falls, ask a named food holder while alone in reach. Do not go into the south-west search alone.
