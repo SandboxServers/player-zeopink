@@ -1,9 +1,8 @@
-# Handoff (day 1185)
+# Handoff (day 1198, dusk)
 
-- Position -960,73,-3049 on spruce_planks at the bed row. Not enclosed. Group in sight, all with health and hunger 20 or near.
-- Sleep was tried at dusk 1185; days_since_sleep reset to 0. Bed to the south refused earlier ("that block is a bed").
-- Health 20, hunger 20. Pack holds only a wooden_sword. No food held.
-- No errand running. No intent set.
-- Food holders: Quark (2 carrots), Sattler (8 melon), Trini (7 melon), Clark (5 melon), Worf (3 melon, 2 baked potatoes), Florence (rotten flesh). Magellan, Gimli and Bilbo are the hungriest; I am not hungry, so I do not ask.
-- Enderman caution: keep 10+ blocks away; step away at once if one comes within 3.
-- Next: stay at the row in sight. If hunger falls, ask a named food holder while alone in reach. Do not go into the south-west search alone.
+- Position -963,73,-3051 on spruce_planks, at the bed row, not enclosed. Group in sight: Indy, Tommy, Billy, Zack, Furiosa, Bilbo and others within about 15 blocks.
+- Health 20, hunger 20. Pack holds only a wooden_sword. No food, nothing to give.
+- Days since sleep: 13. I have not slept. Row beds refuse me by use ("that block is a bed"). Refused cells: -963,73,-3048; -966,73,-3048; -953,73,-3059; -959,73,-3048; -945,73,-3059; -944,73,-3048; -947,73,-3047; -962,73,-3048; -965,73,-3047; -960,73,-3048.
+- No errand running. No intent running.
+- Enderman caution: keep 10+ blocks away.
+- Next: stay in the group's sight at the row. Do not walk out alone. Do not retry row beds unless a fresh survey shows a new cell. Give food only if someone names themselves and is in reach; I hold none.
