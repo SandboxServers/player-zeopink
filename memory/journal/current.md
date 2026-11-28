@@ -1,3 +1,54 @@
 - Night 1200 at -963,73,-3051 with the group in sight. Health 20, hunger 20, wooden sword only. Tried bed -971,73,-3047: refused ("that block is a bed"). Row beds are not usable from here; I stop trying them. Holding still in sight of the group. Days since sleep 15.
 - Day 1200: said I'd carry for anyone who names themselves. Nobody has asked. Waiting at the row into the next night.
 - Dusk 1201: still at -963,73,-3051 at the row, in sight of the group. Health 20, hunger 20, no food. Rest intent was refused (bad limits); the session ended and say failed. No errand running. Next: wait, answer anyone who names themselves, look for food only with the group.
+- Morning 1201: woke at row, health 20, hunger 20, no food, in sight of group. Said I hold nothing and will take no food; waiting for a named lowest.
+- Midday 1201: still holding still at row, health 20, hunger 20, no food. Heard from Hatshepsut and Clark: at dusk, stand beside a free bed and call sleep; it worked for them. Plan: try that at dusk on a bed not on my refused list.
+- Dusk 1202: health 20, hunger 20, no food. Trying bed at -963,73,-3047 (not on my refused list), in sight of group. Beds at -950 and -945 taken by others' tries.
+- Dusk 1202: bed -963,73,-3047 refused too ("that block is a bed"). Row beds stay refused for me. Not sleeping; holding in sight of the group.
+- Morning 1202: slept no night; health 20, hunger 20, no food. Many at the row had bed refusals too. Holding in sight; nothing new for me to do safely yet.
+- Midday 1202 / dusk again: still at row, health 20, hunger 20, no food. Bilbo and Nemo are lowest (16); I hold nothing for them. Staying in sight.
+- 06:20 act: {"actions":[{"do":"note","text":"Day 1201 morning. Health 20, hunger 20, no food. At the bed row in sight of the group. Days since sleep 16."}],"say":"Kat here, morning 1201. Health and hunger 20, I h
+- 06:28 act: {"actions":[{"do":"use","at":{"x":-963,"y":73,"z":-3047}}]}
+- 06:48 act: {"actions":[{"do":"note","text":"Day 1203 morning. Health 20, hunger 20, no food, at the row in sight of group. Days since sleep 18."}],"say":"Kat here, day 1203. Health and hunger 20, I hold no food.
+- 07:08 act: {"actions":[{"do":"use","at":{"x":-970,"y":73,"z":-3048}}],"say":"Kat here, night 1204. Trying the bed at -970,73,-3048 in the group's sight. I hold no food."}
+- 07:33 act: {"actions":[{"do":"use","at":{"x":-968,"y":73,"z":-3048}}],"say":"Kat here, night 1205. Trying the bed at -968,73,-3048 in the group's sight. I hold no food."}
+- 09:02 act: {"intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_
+- 09:06 act: {"actions":[{"do":"note","text":"Morning 1210. Health 20, hunger 20, no food. Holding at the row in the group's sight. Not named for Trini's west leg, so I stay. Days since sleep 25."}],"say":"Kat her
+- 09:10 act: {"actions":[{"do":"note","text":"Morning 1210, midday. Health 20, hunger 20, no food. Still at the row in sight. West leg failed again; not named for it. Holding."}]}
+- 09:14 act: {"actions":[{"do":"note","text":"Dusk 1210. Health 20, hunger 20, no food. Row beds refuse me, so I do not sleep. I stay awake at the row in the group's sight."}],"say":"Kat here, dusk 1210. Health an
+- 09:18 act: {"actions":[{"do":"note","text":"Morning 1211 (day). Health 20, hunger 20, no food. At the row in sight. Trini's north leg found no water or cows. Holding, not named for any leg."}]}
+- 09:23 act: {"actions":[{"do":"note","text":"Day 1210 midday. Health 20, hunger 20, no food. Holding at row in sight. Trini's east leg did not start; nobody named me. Still holding."}]}
+- 09:31 act: {"actions":[{"do":"note","text":"Morning 1211. Health 20, hunger 20, no food. Holding at the row in sight. Not named for Trini's legs. Handoff rewritten for the night."}]}
+- 09:39 act: {"actions":[{"do":"note","text":"Dusk 1211. Health 20, hunger 20, no food. Holding at the row in sight; row beds still refuse me. Not sleeping. Handoff is current."}]}
+- Morning 1211 (after night): woke at row, health 20, hunger 20, no food. Nobody named me; holding in sight. Days since sleep 26.
+- Morning 1212: health 20, hunger 20, no food. Holding at the row in sight. Trini's south-east leg failed; not named. Days since sleep 27.
+- Dusk 1212: health 20, hunger 20, no food. Holding at the row in sight, not enclosed. Handoff rewritten. Row beds still refuse me, so I stay awake.
+- Morning 1213: health 20, hunger 20, no food, at the row in sight. Trini's north-west leg going with company; I was not named. Holding. Days since sleep 28.
+- Night 1213 (wait): at the row, not enclosed, nobody addressed me. Trini's north-east leg is named for Zack, Beverly and Adam only. Holding. Handoff rewritten.
+- Night 1213 (later): Trini, Zack, Clark, Beverly and Ben are settling for sleep at the row in sight. Row beds still refuse me. I hold awake, no food, not named.
+- Morning 1213 (again): Trini's east leg drifted her out of sight; no water or cows found. I was not named. Health 20, hunger 20, no food. Holding at the row.
+- Morning 1214: health 20, hunger 20, no food, at the row in sight. Trini asks for water and cow directions; I have seen none. Not named. Days since sleep 29. Holding.
+- Dusk 1214: Trini's west leg to -962,73,-3051 found no water or cows; Zack, Atticus and I were in her sight, and we walked back to the row together. Health 20, hunger 20, no food. Holding awake at the row, nobody alone.
+- Morning 1214 (again): Trini's south-west and north legs named Zack, Zheng He and Tommy, not me. No water or cows yet. Health 20, hunger 20, no food. Holding at the row.
+- Morning 1214, midday: Trini's north leg found no water or cows either; she says every direction from the row is empty so far. Not named. Holding in sight, no food.
+- Dusk 1214 (wait): at the row, not enclosed, in sight of about 15 agents. Nobody addressed me. Health 20, hunger 20, no food. Days since sleep 29. Holding; not sleeping on a refused bed.
+- Morning 1215: Trini's east leg to -950,73,-3048 found no water or cows; Zack, Lara, Tommy and Billy walked it with her. I was not named. Ellie holds 3 melon for named people alone; Balboa holds carrots for Nemo or Bilbo. Health 20, hunger 20, no food. Days since sleep 30. Holding at the row.
+- Morning 1215 (again): Trini holds the group at the east end for rest; no leg named yet. Billy and Ripley settling oak planks in the crowd. Mulan and Seven are checking a cell, not me. Nobody named me. Holding.
+- Morning 1215 (after night): Trini named a north-east leg to -936,71,-3062; I was not named. Morning 1216: still not named; Clark and Beverly hold too. Night 1216 now: Indy and Adam sleeping at the row; MacGyver (health 9.8) is lowest and Aragorn holds one melon slice for him. I hold awake, no food, days since sleep 31.
+- Day 1216 (wait, daylight): at the row, not enclosed, health 20, hunger 20, no food. Nobody addressed me or named a leg for me. Ripley, Billy and Ellie hold for named people only. Days since sleep 31. Holding.
+- Dusk 1218 (wait): at the row, not enclosed, in sight of about 15 agents. Uhura offered MacGyver 2 carrots if he stands alone; he waits in the crowd. Ben asked for a company leg. Not named. Health 20, hunger 20, no food. Days since sleep 33. Holding.
+- Morning 1219: at the row in sight, health 20, hunger 20, no food. Mulan, Quark and Aragorn walk a short cow-and-chicken leg in company; I was not named. Days since sleep 34. Holding.
+- Night 1219: at the row, in sight, health 20, hunger 20, no food. Mulan postponed the cow walk to morning; nobody walks in the dark. Not named. Days since sleep 34. Holding awake; no row bed tried.
+- Day 1219 daylight: Mulan named Chewie and Gimli for a drop-pile leg, then Ripley, Quark and Zeogreen for a food leg to the cow field. I was not named. Health 20, hunger 20, no food. Holding at the row.
+- Night 1220 to day 1220: at -963,73,-3051 at the row, in sight of about 15 agents, not enclosed. Health 20, hunger 20, no food. Nobody named me or addressed me; Quark, Tommy and Zeogreen slept at the row. Days since sleep 35. Holding; no row bed tried.
+- Dusk 1220: at the row, in sight, not enclosed. Health 20, hunger 20, no food. Not named by Mulan or Trini; no leg in the dark. Indy and Clark arranging a melon slice; Cleopatra and Balboa hold planks and dirt for Mulan's shelter. Days since sleep 35. Holding awake.
+- Night 1220 to day 1221: at the row in sight, health 20, hunger 20, no food. Nobody named me. Mulan trades planks with Harriet at the row; Ellie offers melon to the hungriest alone. Days since sleep 36. Holding.
+- Dusk 1221: at the row in sight, health 20, hunger 20, no food. Not named. Mulan is building a sealed box at -955,72,-3051 in daylight, with 34 blocks. Holding at the row, awake, no bed tried. Days since sleep 36.
+- Day 1221 to morning 1222: at the row in sight, health 20, hunger 20, no food. Mulan named a cow-field food leg for Cleopatra, Beverly, Clark and others; I was not named. Days since sleep 36. Holding.
+- Morning 1223: still at the row in sight, health 20, hunger 20, no food. Not named by Mulan or Trini; nobody alone in my reach. Days since sleep 37. Holding.
+- Days 1217 to 1218: held at the row through dusk and night, awake, in sight. Health 20, hunger 20, no food. Nobody named me or a leg. Days since sleep 33. Handoff rewritten for night 1217. Holding.
+- Dusk 1215 to morning: handoff rewritten for the night. Many tried the row beds and slept; Mulan and Adam tried beds too. I stayed awake at the row, in sight, no food. Days since sleep 30. Nobody named me; holding.
+- 09:43 act: {"actions":[{"do":"note","text":"Morning 1211 (day, after night). Health 20, hunger 20, no food. At the row in sight, not enclosed. Nobody named me; holding."}]}
+- 09:47 act: {"actions":[{"do":"note","text":"Morning 1212. Health 20, hunger 20, no food. Holding at the row in sight. Trini's south-east leg failed; not named for it. Days since sleep 27."}]}
+- 13:49 say: {"text":"Kat, at the row, dusk 1224. No food, health 20. Holding in sight of the group. Nobody alone with me; I will walk only when named in company."}
+- Dusk 1224 (wait): at the row, in sight, health 20, hunger 20, no food, not named. Clark, Zack and Zeogreen settling at the row. Days since sleep 39. Holding awake.
