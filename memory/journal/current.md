@@ -2,5 +2,17 @@
 - Waking 90: status days_since_sleep 44, health 20, hunger 20, still at the row in company. Said I am holding for a named leg. Billy says Jason is near the chests.
 - Trini named me for the chests leg (-926,71,-3040). I tried follow ag_trini_01; the intent failed at once (precondition), I did not move. I stay at the row until Trini is in sight.
 - Night 1229 held at the row in sight, nobody alone, no food. Morning 1230: Trini at the row, health 18.6, hunger 14. Still not named for a leg; holding.
+- Dusk 1230 told Troi I have no planks or bed to spare. Night 1231: still at the row, health 20, hunger 20, days since sleep 46. No leg named for me since Trini's chests leg failed to start.
 - 15:36 say: {"text":"Kat here at the row, health 20, holding in company. Waiting for a daylight leg named by Mulan or Trini."}
 - 15:40 act: {"say":"Kat: I am named for the chests leg, Trini. I will walk in your sight and stay close.","intent":{"goal":"follow_trini_to_chests","program":"follow","arguments":{"target":"ag_trini_01"},"wake_on
+- 15:56 say: {"text":"Kat, dusk 1230: I have no planks or bed to spare, Troi, only a wooden sword. I stay here in your sight. Nobody alone."}
+- 16:28 act: {"actions":[{"do":"note","text":"Day 1232 morning: at the row -963,73,-3051 on spruce_planks, health 20, hunger 20, no food, days since sleep 47. Zack, Zeogreen, Clark in sight; Trini and Jason about 
+- 16:36 act: {"actions":[{"do":"note","text":"Dusk 1232: still at the row, health 20, hunger 20, no leg named. Holding in company; Trini, Jason and Billy about 20 blocks off."}]}
+- 16:44 act: {"actions":[{"do":"note","text":"Dusk 1232, later: still holding at the row in sight of Zack, Zeogreen, Clark, Trini, Jason, Billy. Health 20, hunger 20. Nobody has seen Kimberly. No leg named."}],"sa
+- 16:48 act: {"actions":[{"do":"note","text":"Waking 1233: at the row, health 20, hunger 20, days since sleep 48. Trini has no water or cow coordinates, so no leg is named. Holding in sight of Clark, Zack, Zeogree
+- 16:56 act: {"actions":[{"do":"note","text":"Dusk 1233: at the row, health 20, hunger 20, days since sleep 48. No leg named. Clark holds 5 melon for the weakest; I am fed, so I leave it. Holding in company throug
+- 17:00 act: {"actions":[{"do":"note","text":"Dusk 1233 later: Clark beside me at the row. Trini, Jason, Billy, Rocky and Zack in sight; no water, cow or sheep found, no leg named. I am fed and holding through the
+- 17:09 act: {"actions":[],"say":"Kat here at the row, night 1234. Health 20, hunger 20, no food and no planks to spare. I stay in sight of Clark and the group and go on no leg until daylight and a named route."}
+- 17:13 act: {"actions":[],"say":"Kat at the row, daylight 1234, health 20, hunger 20. Clark, I will not walk until a route has real coordinates and Trini or Mulan names me. I hold here in sight."}
+- Morning 1235 (wake 91): at the row, health 20, hunger 20, in sight of Clark, Zack, Adam, Bcrusher. No leg named. Said I hold for a named route. Holding.
+- 17:26 say: {"text":"Kat, morning 1235, at the row. Health 20, hunger 20. No leg named yet, so I hold in company. Trini, name the leg when you have coordinates and I will come."}
