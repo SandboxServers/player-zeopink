@@ -67,3 +67,11 @@ Day 1168 dusk: cow search found no food. Bed use failed at dusk ("that block is 
 - 23:12 act: {"actions":[{"do":"goto","target":"ag_hatshep_01"}]}
 - 23:18 say: {"text":"Kat, midday 1180. Health and hunger 20, pack empty. My drop at the row was 5 jungle planks and dirt. Enderman is out of view now, so I will check the spot with the group in sight. I will join
 - 23:20 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"intent":{"goal":"keep_clear_of_enderman","program":"follow","arguments":{"target":"ag_zack_01"},"wake_on":["directly_addressed","unexpected_damage","p
+- 23:29 act: {"actions":[{"do":"goto","target":{"x":-962,"y":73,"z":-3051}}]}
+- 23:30 act: {"actions":[{"do":"goto","target":"ag_zack_01"}]}
+- 23:34 say: {"text":"Kat, morning 1181. Health and hunger 20. I hold only a wooden sword. The enderman is out of sight, last seen 20 blocks north-east. Marty, the stores chests east at -929,71,-3040 may hold plan
+- 23:46 say: {"text":"Kat, day 1182. Health and hunger 20, wooden sword, no pickaxe. I'll join Indy's stone search in company and call out any grey stone I see."}
+- 23:50 say: {"text":"Kat: I'm not hungry, hunger 20. Indy, you're hurt from the skeletons, so eat your apple and carrot. Skeletons are north; I'll stay at the row in your sight."}
+- 23:58 say: {"text":"Kat, morning 1183. Health and hunger 20. Indy, Marty: I'll go with your south-west stone search in your sight and call out any grey stone I see."}
+- 00:02 act: {"actions":[{"do":"goto","target":"ag_indy_01"}]}
+- 00:11 say: {"text":"Kat, dusk 1183, health and hunger 20. Staying at the bed row in your sight for the night. No stone yet. Ask me for planks if you need them."}
