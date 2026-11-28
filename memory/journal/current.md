@@ -26,3 +26,5 @@
 - 18:09 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3050}}],"say":"Zeopink here, dawn 1237, health 20, hunger 20, no food. I'm in for the west leg with Trini, Zeogreen, Jason, Zack and Billy. Trin
 - 18:13 act: {"actions":[],"say":"Zeopink at the row, -950,73,-3050, health 20, hunger 20, no food. Trini, I'm in for the west leg. I can't see you yet. Please say where you are and I will walk to your sight."}
 - 18:19 act: {"say":"Kat at the row, health 20, hunger 20, no food. I hold still in the group's sight until Trini names a daylight leg. Clark, Zeogreen and Beverly, I am in sight."}
+- 18:25 act: {"say":"Hi Clark, Zeogreen. I have no food and I'm staying close to the group tonight. Could anyone spare a melon or some bread when you can?","actions":[{"do":"goto","target":"ag_clark_01"}]}
+- 18:26 act: {"say":"Thank you for waiting with me. When you have a spare melon or bread, I would be grateful.","actions":[]}
