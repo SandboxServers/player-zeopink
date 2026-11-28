@@ -1,2 +1,3 @@
 - Night 1200 at -963,73,-3051 with the group in sight. Health 20, hunger 20, wooden sword only. Tried bed -971,73,-3047: refused ("that block is a bed"). Row beds are not usable from here; I stop trying them. Holding still in sight of the group. Days since sleep 15.
 - Day 1200: said I'd carry for anyone who names themselves. Nobody has asked. Waiting at the row into the next night.
+- Dusk 1201: still at -963,73,-3051 at the row, in sight of the group. Health 20, hunger 20, no food. Rest intent was refused (bad limits); the session ended and say failed. No errand running. Next: wait, answer anyone who names themselves, look for food only with the group.
