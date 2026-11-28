@@ -96,3 +96,4 @@ Day 1168 dusk: cow search found no food. Bed use failed at dusk ("that block is 
 - 04:03 act: {"actions":[{"do":"goto","target":{"x":-962,"y":73,"z":-3051}}],"say":"Kat, morning 1194. The bed at -965,73,-3047 also refused me. I will not try the row beds again without a fresh look. I stay in si
 - 04:35 act: {"actions":[{"do":"use","at":{"x":-966,"y":73,"z":-3048}}],"say":"Kat, night 1196. Health 20, hunger 20, no food. Trying a bed at the row in your sight."}
 - 04:56 act: {"actions":[{"do":"use","at":{"x":-963,"y":73,"z":-3048}}],"say":"Kat, morning 1197. Health and hunger 20, no food. Trying the bed at -963,73,-3048 in sight of the group."}
+- 05:28 act: {"say":"Kat here, at the row, in sight. I hold no food, and my hunger is full for now. Trini, Billy and Indy need it more; I agree with giving the melon to whoever is lowest. I will stay with the grou
