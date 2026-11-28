@@ -16,3 +16,12 @@
 - 17:13 act: {"actions":[],"say":"Kat at the row, daylight 1234, health 20, hunger 20. Clark, I will not walk until a route has real coordinates and Trini or Mulan names me. I hold here in sight."}
 - Morning 1235 (wake 91): at the row, health 20, hunger 20, in sight of Clark, Zack, Adam, Bcrusher. No leg named. Said I hold for a named route. Holding.
 - 17:26 say: {"text":"Kat, morning 1235, at the row. Health 20, hunger 20. No leg named yet, so I hold in company. Trini, name the leg when you have coordinates and I will come."}
+- 17:32 act: {"say":"Kat at the row, dusk 1235. Health 20, hunger 20, no food. I hold in sight of Clark and Zack, and go on no leg until someone names one."}
+- 17:36 act: {"say":"Kat at the row, day 1235. Health 20, hunger 20. Trini, I'll come in your sight once a leg has real coordinates. Clark, you hold the melon for the hungriest; I'm fed, so it's yours to share."}
+- 17:40 act: {"say":"Kat joining Trini's named leg to the stores hall, in sight of the group. I'm fed, so I come to learn and help carry.","intent":{"goal":"follow_trini_to_stores","program":"follow","arguments":{
+- 17:40 say: {"text":"Kat: my follow on Trini failed, she is out of my sight. I stay at the row. Trini, come back into view and I'll walk in your sight."}
+- 17:44 act: {"say":"Kat: enderman 10 blocks east of me. I won't look at it. I stay put and keep my eyes down, in sight of Jason and Billy."}
+- 18:00 act: {"actions":[{"do":"goto","target":{"x":-963,"y":73,"z":-3040}}],"say":"Kat: enderman 2 blocks north of me. I'm walking south away from it, not looking at it."}
+- 18:01 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3050}}],"say":"Kat: I'm alone at -962,-3040, no one in sight. Walking back toward Jason and Billy at the row."}
+- 18:09 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3050}}],"say":"Zeopink here, dawn 1237, health 20, hunger 20, no food. I'm in for the west leg with Trini, Zeogreen, Jason, Zack and Billy. Trin
+- 18:13 act: {"actions":[],"say":"Zeopink at the row, -950,73,-3050, health 20, hunger 20, no food. Trini, I'm in for the west leg. I can't see you yet. Please say where you are and I will walk to your sight."}
